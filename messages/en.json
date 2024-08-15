@@ -1,0 +1,9 @@
+{
+	"loginPage": {
+		"username": "Username",
+		"password": "Password",
+		"usernamePlaceholder": "Enter your username",
+		"passwordPlaceholder": "Enter your password",
+		"remember": "Remember me"
+	}
+}
